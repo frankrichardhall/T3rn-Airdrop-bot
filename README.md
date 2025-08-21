@@ -59,3 +59,4 @@ A bot designed to automate transactions and bridge assets on the t3rn network, m
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
  
+ 
